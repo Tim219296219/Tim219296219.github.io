@@ -1,6 +1,11 @@
-# TIM DAVIDS APPLICATION DEVELOPER
+ <h>**TIM DAVIDS APPLICATION DEVELOPER**<h/>
+<img align="right" img src="https://github.com/Tim219296219/Tim219296219.github.io/blob/main/Tim.jpg" width="300" />
 
-## PROFILE
+
+
+
+
+**PROFILE**
 
 *I am a well-performed worker and eager to give my best towards the work that needs to be done. I also see myself as very creative and able to come up with a plan when needed. I work well under pressure, and I am always determined to be at my best. I have also a lot of experiences to know the importance of being in a working environment.*
 
