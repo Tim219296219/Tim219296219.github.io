@@ -1,21 +1,21 @@
- <h>**TIM DAVIDS APPLICATION DEVELOPER**<h/>
+ # TIM DAVIDS APPLICATION DEVELOPER 
 <img align="right" img src="https://github.com/Tim219296219/Tim219296219.github.io/blob/main/Tim.jpg" width="300" />
 
 
 
 
 
-**PROFILE**
+### PROFILE
 
 *I am a well-performed worker and eager to give my best towards the work that needs to be done. I also see myself as very creative and able to come up with a plan when needed. I work well under pressure, and I am always determined to be at my best. I have also a lot of experiences to know the importance of being in a working environment.*
 
-## CONTACT INFORMATION
+### CONTACT INFORMATION
 
 * 19 Carnation Square Bridgetown Athlone 7764
 * 068 217 9674
 * Timdavids16@gmail.com
   
-## EDUCATION
+### EDUCATION
 
 **Peak View Secondary School**
 
@@ -37,7 +37,7 @@ APPLICATION DEVELOPMENT DIPLOMA 2026 (STILL IN PROGRESS)
 * [x] Excellent Communication
 * [x] Organized
 
-## INTEREST
+### INTEREST
 
 * Sports
 * Travel
@@ -45,7 +45,7 @@ APPLICATION DEVELOPMENT DIPLOMA 2026 (STILL IN PROGRESS)
 * Hiking
 * Cooking
 
-## EXPERIENCES
+### EXPERIENCES
 
 ### CODING PRACTICE
 
